@@ -160,7 +160,7 @@ hr.faded {
 }
 .navbar-default .navbar-nav li a,
 .navbar-inverse .navbar-nav li a {
-  color: red;
+  color: white;
 }
 .navbar-default .navbar-nav li a:hover,
 .navbar-inverse .navbar-nav li a:hover {
@@ -228,6 +228,7 @@ header .tagline {
   font-size: 20px;
   line-height: 20px;
   font-weight: 300;
+  padding: 0px 0px 20px 0px;
 }
 
 header img {
