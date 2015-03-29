@@ -1,0 +1,13 @@
+# Team Deep Purple - Project Meta Jersey
+
+# Site Settings
+title: Meta Jersey
+name: Team Deep Purple
+email: notanemail@domain.com
+description: You Meta Bro.
+url: metajersey.io
+
+# Build Settings
+markdown: kramdown
+permalink: pretty
+
