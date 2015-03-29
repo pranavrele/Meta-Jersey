@@ -45,7 +45,7 @@ body
 
 a
 {
-	color: red;
+	color: #bb0a00;
 	-webkit-transition: all 0.5s;
 	-moz-transition: all 0.5s;
 	transition: all 0.5s;
@@ -116,7 +116,7 @@ hr.faded {
 .navbar-inverse .navbar-nav > .active > a,
 .navbar-inverse .navbar-nav > .active > a:hover,
 .navbar-inverse .navbar-nav > .active > a:focus {
-  color: red;
+  color: #bb0a00;
   background-color: white;
   border-radius: 0;
 }
