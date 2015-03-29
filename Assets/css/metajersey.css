@@ -20,7 +20,7 @@ body
 
 section
 {
-	padding: 80px 0;
+	padding: 10px 0px 20px 0px;
 }
 
 section.bg
@@ -58,8 +58,9 @@ a:focus {
 }
 
 p {
-  font-size: 18px;
+  font-size: 30px;
   line-height: 1.5;
+  padding: 40px 0px 20px 0px;
 }
 p.lead {
   font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
