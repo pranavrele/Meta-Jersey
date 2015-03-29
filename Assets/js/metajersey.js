@@ -27,5 +27,12 @@
 		 {
 			 target: '.navbar-fixed-top',
 			 offset: 51
-		 })	 
+		 })
+		 
+	$(document).ready(function() {
+    $('#table').dataTable({
+        "aLengthMenu": [[25, 50, 75, -1], [25, 50, 75, "All"]],
+        "iDisplayLength": 25
+    	});
+	} );	 	 
  })(jQuery); 
