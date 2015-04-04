@@ -6,9 +6,9 @@ name: Team Deep Purple
 email: notanemail@domain.com
 description: Mapping the Metamorphical Changes within New Jersey
 baseurl: /Meta-Jersey
-url: pranavrele.github.io/Meta-Jersey
 
 # Build Settings
-markdown: kramdown
+markdown: redcarpet
+pygments: true
 permalink: pretty
 
