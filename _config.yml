@@ -9,6 +9,6 @@ baseurl: /Meta-Jersey
 
 # Build Settings
 markdown: redcarpet
-pygments: true
+highlighter: pygments
 permalink: pretty
 
