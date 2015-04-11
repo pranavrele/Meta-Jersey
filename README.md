@@ -5,7 +5,7 @@ Meta-Jersey provides a tool for journalists that can aid them in understanding w
 
 [Live Demo ](http://pranavrele.github.io/meta-jersey-hosting/)
 
-#Created for HackJersey 2.0
+Created for Hack Jersey 2.0
 
 #Contributors
 
